@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactWebNetCore6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+698f5805d9cfa87957f1b0234bbf671168271bea")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactWebNetCore6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactWebNetCore6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
