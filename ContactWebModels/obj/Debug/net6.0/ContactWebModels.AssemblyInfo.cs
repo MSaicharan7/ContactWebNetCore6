@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContactWebModels")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5adef9986f1281cf9084d549901acc4e02cbd202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98c7f4fc1b2d0e9f12f6e0cad0d2c4d22c667918")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContactWebModels")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContactWebModels")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

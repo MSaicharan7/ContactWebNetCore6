@@ -42,11 +42,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
@@ -56,7 +60,7 @@
               "RelativeDocumentMoniker": "ContactWebModels\\Contact.cs",
               "ToolTip": "I:\\Udemy\\ForJob\\BrainGorman\\ContactWebAppNetCore6\\ContactWebNetCore6\\ContactWebModels\\Contact.cs",
               "RelativeToolTip": "ContactWebModels\\Contact.cs",
-              "ViewState": "AgIAADEAAAAANDMzMzPjvzMAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-29T18:19:32.156Z",
               "EditorCaption": ""
@@ -71,8 +75,7 @@
               "RelativeToolTip": "ContactWebModels\\ContactManagerConstants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T18:15:13.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-29T18:15:13.165Z"
             },
             {
               "$type": "Document",
@@ -84,8 +87,7 @@
               "RelativeToolTip": "ContactWebModels\\State.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T15:55:12.58Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T15:55:12.58Z"
             },
             {
               "$type": "Document",
@@ -121,8 +123,7 @@
               "RelativeToolTip": "ContactWebNetCore6\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-27T07:25:43.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T07:25:43.588Z"
             },
             {
               "$type": "Document",
@@ -134,8 +135,7 @@
               "RelativeToolTip": "ContactWebNetCore6\\ContactWebNetCore6.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-26T19:15:49.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T19:15:49.259Z"
             },
             {
               "$type": "Document",
@@ -146,8 +146,7 @@
               "ToolTip": "I:\\Udemy\\ForJob\\BrainGorman\\ContactWebAppNetCore6\\ContactWebNetCore6\\ContactWebNetCore6\\ContactWebNetCore6.csproj",
               "RelativeToolTip": "ContactWebNetCore6\\ContactWebNetCore6.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-26T19:14:40.848Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-26T19:14:40.848Z"
             }
           ]
         }
