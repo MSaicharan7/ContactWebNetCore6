@@ -1,0 +1,12 @@
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\bin\Debug\net6.0\ContactWebModels.deps.json
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\bin\Debug\net6.0\ContactWebModels.dll
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\bin\Debug\net6.0\ContactWebModels.pdb
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.GeneratedMSBuildEditorConfig.editorconfig
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.AssemblyInfoInputs.cache
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.AssemblyInfo.cs
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.csproj.CoreCompileInputs.cache
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.sourcelink.json
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.dll
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\refint\ContactWebModels.dll
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ContactWebModels.pdb
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebModels\obj\Debug\net6.0\ref\ContactWebModels.dll

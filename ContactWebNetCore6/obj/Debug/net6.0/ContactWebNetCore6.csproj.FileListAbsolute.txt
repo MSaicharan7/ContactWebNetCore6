@@ -75,3 +75,4 @@ I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebN
 I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebNetCore6\obj\Debug\net6.0\ContactWebNetCore6.pdb
 I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebNetCore6\obj\Debug\net6.0\ContactWebNetCore6.genruntimeconfig.cache
 I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebNetCore6\obj\Debug\net6.0\ref\ContactWebNetCore6.dll
+I:\Udemy\ForJob\BrainGorman\ContactWebAppNetCore6\ContactWebNetCore6\ContactWebNetCore6\obj\Debug\net6.0\ContactWebNetCore6.sourcelink.json
