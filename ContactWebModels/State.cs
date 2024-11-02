@@ -12,7 +12,7 @@ namespace ContactWebModels
         public string  Name { get; set; }
         [Required(ErrorMessage = "State Abbrevation is required")]
         [StringLength(ContactManagerConstants.MAX_STATE_ABBR_LENGTH)]
-        public string Abbrevation { get; set; }
+        public string Abbreviation { get; set; }
     }
 }
 

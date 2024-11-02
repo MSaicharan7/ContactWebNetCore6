@@ -49,7 +49,7 @@ namespace ContactWebModels
 
         [Display(Name = "State")]
         [Required(ErrorMessage ="State is Required")]
-        public string StateId { get; set; }
+        public int StateId { get; set; }
 
         public virtual State State { get; set; }
 
@@ -66,10 +66,10 @@ namespace ContactWebModels
         public string FriendlyName => $"{FirstName} {LastName}";
 
         [Display(Name = "Full Address")]
-        public string FriendlyAddress => State is null ? "" : string.IsNullOrWhiteSpace(StreetAddress1) ? $"{City},{State.Abbrevation}, {Zip}" :
+        public string FriendlyAddress => State is null ? "" : string.IsNullOrWhiteSpace(StreetAddress1) ? $"{City},{State.Abbreviation}, {Zip}" :
                                                 string.IsNullOrWhiteSpace(StreetAddress2)
-                                                ? $"{StreetAddress1}, {City}, {State.Abbrevation}, {Zip}"
-                                                : $"{StreetAddress1}-{StreetAddress2}, {City}, {State.Abbrevation}, {Zip}";
+                                                ? $"{StreetAddress1}, {City}, {State.Abbreviation}, {Zip}"
+                                                : $"{StreetAddress1}-{StreetAddress2}, {City}, {State.Abbreviation}, {Zip}";
 
 
     }
